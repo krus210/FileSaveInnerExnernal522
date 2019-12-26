@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">File Save Inner External 5.2.2</string>
+    <string name="select_language">Select language</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="ok">Ok</string>
+    <string name="registration">Registration</string>
+    <string name="is_save_to_external_storage">Save login in external storage</string>
+    <string name="permission_granted">Permission granted for save login in external storage</string>
+    <string name="permission_denied">Permission denied for save login in external storage</string>
+    <string name="zero_login_password">Void login or password</string>
+    <string name="error_inner_write">Error of saving in inner file</string>
+    <string name="success_inner_write">Success of saving in inner file</string>
+    <string name="error_inner_read">Error of reading inner file</string>
+    <string name="error_add_external_file">Error of access  writing in external storage</string>
+    <string name="success_external_write">Success of saving in external file</string>
+    <string name="error_external_write">Error of saving in external file</string>
+    <string name="error_external_read">Error of reading from external file</string>
+    <string name="error_read_external_file">Error of access reading from external storage</string>
+    <string name="data_equal">Login and password are right</string>
+    <string name="data_not_equal">Login or password are not equal</string>
+    <string-array name="changeLanguage">
+        <item>Russian</item>
+        <item>English</item>
+    </string-array>
+</resources>

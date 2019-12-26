@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">File Save Inner External 5.2.2</string>
+    <string name="select_language">Выбрать язык</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="ok">Ok</string>
+    <string name="registration">Регистрация</string>
+    <string name="is_save_to_external_storage">Хранить логин во внешнем хранилище</string>
+    <string name="permission_granted">Разрешение дано на сохранение логина во внешнее хранилища</string>
+    <string name="permission_denied">Разрешение отклонено на сохранение логина во внешнее хранилища</string>
+    <string name="zero_login_password">Не введены логин или пароль</string>
+    <string name="error_inner_write">Ошибка записи внутреннего файла</string>
+    <string name="success_inner_write">Данные успешно записаны во внутренний файл</string>
+    <string name="error_inner_read">Ошибка чтения внутреннего файла</string>
+    <string name="error_add_external_file">Ошибка доступа к внешнему хранилищу во время записи</string>
+    <string name="success_external_write">Успешно записаны данные в файл внешнего хранилища</string>
+    <string name="error_external_write">Ошибка при записи данных в файл внешнего хранилища</string>
+    <string name="error_external_read">Ошибка при чтении данных из файла внешнего хранилища</string>
+    <string name="error_read_external_file">Ошибка доступа к внешнему хранилищу во время чтения</string>
+    <string name="data_equal">Логин и пароль верные</string>
+    <string name="data_not_equal">Логин или пароль не совпадают</string>
+    <string-array name="changeLanguage">
+        <item>Русский</item>
+        <item>Английский</item>
+    </string-array>
+</resources>
